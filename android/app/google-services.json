@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "906122130793",
+    "firebase_url": "https://gps-tracker-cef9f.firebaseio.com",
+    "project_id": "gps-tracker-cef9f",
+    "storage_bucket": "gps-tracker-cef9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906122130793:android:76df79c8870275dd5539f8",
+        "android_client_info": {
+          "package_name": "ATworks.gps_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906122130793-bd42mqt0j02l0qcb4g51qs7ue393iauu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQ_77Ak9tu24G97gfgX5ZCzTZnH3ij0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906122130793-bd42mqt0j02l0qcb4g51qs7ue393iauu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
